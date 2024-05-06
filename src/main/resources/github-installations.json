@@ -1,0 +1,16 @@
+[
+  {
+    "installationId": "installationId",
+    "appId": "appId",
+    "privateKeyPath": "privateKeyPath",
+    "clientId": "clientId",
+    "appName": "appName"
+  },
+  {
+    "installationId": "installationId",
+    "appId": "appId",
+    "privateKeyPath": "privateKeyPath",
+    "clientId": "clientId",
+    "appName": "appName"
+  }
+]

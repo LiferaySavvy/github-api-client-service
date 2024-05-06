@@ -1,0 +1,65 @@
+{
+  "github-org1": {
+    "integration-team1": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    },
+    "integration-team2": {
+      "installation-ids": [
+        "1"
+      ]
+    },
+    "integration-team3": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    },
+    "common-team": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    },
+    "dedicated-team": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    }
+  },
+  "github-org2": {
+    "integration-team1": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    },
+    "integration-team2": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    },
+    "integration-team3": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    },
+    "common-team": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    },
+    "dedicated-team": {
+      "installation-ids": [
+        "1",
+        "2"
+      ]
+    }
+  }
+}
